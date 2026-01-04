@@ -1,1 +1,4 @@
-# Nguyen_Manh_Tien_DHKL18A1HN_Bai_Tap
+# STT: 54
+# MSV: 24174600177
+# Họ và tên: Nguyễn Mạnh Tiến
+# Lớp: DHKL18A1HN
